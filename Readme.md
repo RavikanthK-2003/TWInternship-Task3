@@ -1,0 +1,2 @@
+# TWInternship-Task2
+* Make a Flipkart Clone - The objective of creating a Flipkart clone in web development is to build a functional and user-friendly e-commerce platform that replicates the key features and functionalities of the popular online shopping website, Flipkart. The clone aims to provide a similar shopping experience to users, allowing them to browse and purchase products from various categories.
